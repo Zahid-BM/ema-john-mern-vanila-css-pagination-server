@@ -15,6 +15,6 @@ app.get('/', (req, res) => {
 
 app.listen(port, () => {
     console.log(`Emma-john-server is running at port : ${port}`);
-})
+});
 
 
